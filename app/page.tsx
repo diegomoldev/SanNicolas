@@ -11,7 +11,7 @@ export default function Home() {
     >
       <h1
         style={{
-          fontFamily: "system-ui, sans-serif",
+          fontFamily: "var(--font-plus-jakarta), sans-serif",
           fontSize: "clamp(2rem, 6vw, 4.5rem)",
           fontWeight: 800,
           color: "#e6e6e6",
